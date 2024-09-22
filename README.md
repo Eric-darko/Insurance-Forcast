@@ -6,6 +6,18 @@ Welcome to the Insurance Forecast project! This innovative solution leverages ma
 helping companies optimize their resources and enhance decision-making processes. With a focus on accuracy and efficiency, 
 our model stands at the forefront of the insurance industry’s data-driven future.
 
+📊 Data Source
+
+The dataset used in this project is sourced from https://raw.githubusercontent.com/dsrscientist/dataset4/main/medical_cost_insurance.csv and contains historical insurance claims data.
+
+📋 Data Description
+
+Features: The dataset includes variables such as:
+Policyholder Demographics: Age, gender, and location.
+Policy Details: Policy type, coverage amount, and premium paid.
+Claims History: Previous claims made by the policyholder.
+Incident Details: Date of the incident, claim amount, and type of claim.
+
 🚀 Key Features
 
 Predictive Analytics: Utilizes advanced machine learning algorithms to forecast insurance claims, enabling proactive risk management.
